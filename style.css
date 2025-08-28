@@ -1,0 +1,211 @@
+/* *{
+    font-family: 'Times New Roman', Times, serif;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+} */
+/* div{
+    height: 200px;
+    background-color: pink;
+    width: 200px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+h1{
+    width: 200px;
+    height: 50px;
+    /* background-color: red;
+    border-width: 3px;
+    border-style: dotted;
+    border-color: blue; */
+    /* border: 3px dotted blue;
+    text-align: center; */
+    /* div {
+        height: 100px;
+        width: 100px;
+        background-color: pink;
+        border: 2px dotted brown;
+        /* border-radius: 50%; */
+        /* padding-left: 16px;
+        margin : 25px;
+    } */ 
+
+
+/* #box {
+    background-color: blue;
+    /* color: white; */
+/* } */
+/* .heading{
+    color: red;
+} */
+/* h1,h2,h3{
+    color: red;
+} */
+/* button {
+    background-color: green;
+}
+p{
+    text-align: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   line-height: 50px;
+   text-transform: capitalize;
+}
+h1{
+    text-align: center;
+    text-decoration: blue underline;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+a {
+    text-decoration: none;
+    
+} */
+ /* h1{
+    text-align: center;
+    text-transform: capitalize;
+ } */
+  /* div {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+  } */
+   /* div {
+    width: 100px;
+    height: 349px;
+    background-color: black;
+    }
+    #div1 {
+        height: 100px;
+        width: 100px;
+        background-color: green;
+        border-radius: 50%;
+        margin-bottom: 24px;
+        
+    }
+    #div2 {
+        height: 100px;
+        width: 100px;
+        background-color: yellow;
+        border-radius: 50%;
+        margin-bottom: 24px;
+    }
+    #div3 {
+        height: 100px;
+        width: 100px;
+        background-color: red;
+        border-radius: 50%;
+    } */
+      /* * {
+        padding: 0;
+        margin: 0;
+        color: white;
+     }
+     #navbar {
+        height: 60px;
+        background-color: #0f1111;
+     }
+     button {
+        background-color: #f08804;
+     }
+     #logo {
+        color: #f08804;
+        font-size: 25px;
+     }
+     a {
+        margin-right: 240px;
+        text-decoration: none;
+        margin-left: 10px;
+     }  */
+      /* div {
+        background-color: pink;
+        display: inline;
+      }
+      button {
+        display: block;
+      } */
+    /* div {
+        height: 100px;
+        width: 100px;
+        margin: 25px;
+        padding: 25px;
+        /* display: inline; */
+        /* display: block; */
+        /* display: inline-block;
+
+    }
+    #div1 {
+        background-color: blue;
+    }
+    #div2 {
+        background-color: aqua;
+        visibility: hidden;
+    }
+    #div3 {
+        background-color: blueviolet;
+    } */ 
+
+    /* .contentBox { 
+        height: 100px;
+        width: 100px;
+        border: 2px solid black;
+        display: inline-block;
+    }
+    footer {
+        background-color: #0f1111;
+        color: white;
+        text-align: center;
+        
+    }
+    #content {
+        height: 620px;
+    } */
+/* em double of parent size and rem font size of root elements (size of body tag)
+View port height (vh) % of browser height */
+    /* #box1 {
+        height: 100px;
+        width: 200px;
+        background-color: green;
+        font-size: 10px;
+    }
+    #box2 {
+        height: 50px;
+        width: 30%;
+        background-color: yellow;
+        margin-left: 10%;
+        font-size: 2em;
+    } */
+    div {
+        height: 100px;
+        width: 100px;
+        background-color: red;
+        border: 2px soild black;
+        display: inline-block;
+    }
+    #box1 {
+        position: static;
+    }
+    #box2 {
+        position: relative;
+        top: 50px;
+    }
+    #box3 {
+        position: sticky;
+        top: 0px;
+        }
+    /* #box4 {
+        position: fixed;
+        right: 10px;
+        bottom: 0px;
+        width: 100vw;
+    } for creating footer */
+
+    #box4 {
+        position: fixed;
+        top: 0; 
+    }
